@@ -1,0 +1,35 @@
+body { color: blue;
+font-size: 30px;
+font-family:Times New Roman ;
+}
+.purple{color: #8845f4;}
+.img {width:50% ;
+float: left; }
+.image{width:50%
+padding-left: 60% ;}
+.primary-btn{
+    color: white;
+    background-color: #8845f4;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    text-decoration:none;
+}
+h1{
+    font-size: 2.5em;
+}
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+.experiences{
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(238, 251, 255);
+    border-radius: 20px;
+}
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+
